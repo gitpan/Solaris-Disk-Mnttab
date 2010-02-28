@@ -14,3 +14,5 @@ t/10read.t
 t/mnttab.txt
 t/swaptab.txt
 t/vtoc.txt
+SIGNATURE
+SIGNATURE    Added here by Module::Build
